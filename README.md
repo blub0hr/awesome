@@ -6,8 +6,7 @@ list of awesome resources and *shiny* things
 ## Table of Contents
 - [awesome](#awesome)
   - [Editors](#editors) 
-- [more](#more)
-- 
+
 ## Editors
 
 * [Visual Studio Code](https://code.visualstudio.com/)
