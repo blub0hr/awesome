@@ -6,6 +6,10 @@ list of awesome resources and *shiny* things
 ## Table of Contents
 - [awesome](#awesome)
   - [Editors](#editors) 
+  - [Frameworks](#frameworks)
+  - [Content Management](#content-management)
+  - [Collaboration](#collaboration)
+  - [Infrastructure](#infrastructure)
 
 ## Editors
 
