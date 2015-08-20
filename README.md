@@ -23,6 +23,7 @@ list of awesome resources and *shiny* things
 ## Frameworks
 
 * [phalcon](https://phalconphp.com/) - A full-stack PHP framework as C-based extension
+  * [phalcon cheat-sheet](http://phalcon.io/cheat-sheet/)
 
 ## Content Management
 
