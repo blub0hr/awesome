@@ -35,4 +35,6 @@ list of awesome resources and *shiny* things
 
 ## Infrastructure
 
+* Virtualbox
+  * [Set up Host-Guest-Communication](http://serverfault.com/questions/225155/virtualbox-how-to-set-up-networking-so-both-host-and-guest-can-access-internet)
 * [appserver.io](http://appserver.io/) - A full-stack webserver for PHP completely written in PHP
