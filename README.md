@@ -16,6 +16,7 @@ list of awesome resources and *shiny* things
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Atom](https://atom.io/) - *A hackable text editor* by github
 * [Prose](http://prose.io) - An online github file editor
+* [Tonicdev](https://tonicdev.com/) - An online nodejs editor with access to all npm packages
 
 #### Markdown
 * [StackEdit](https://stackedit.io/) - An online Markdown editor
