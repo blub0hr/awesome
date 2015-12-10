@@ -33,6 +33,7 @@ list of awesome resources and *shiny* things
 ## Collaboration
 
 * [TogetherJS](https://togetherjs.com/) - Add real time collaboration to your website *by Mozilla*
+* [Phabricator](http://phabricator.org/) - Collection of open source web applications that help software companies build better software
 
 ## Infrastructure
 
