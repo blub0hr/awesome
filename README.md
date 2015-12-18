@@ -44,5 +44,5 @@ list of awesome resources and *shiny* things
 
 ## Libraries
 
-* nodejs
+### nodejs
   * [Polyclay to enforce model schema defintion](https://github.com/ceejbot/polyclay)
