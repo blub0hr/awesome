@@ -41,3 +41,8 @@ list of awesome resources and *shiny* things
   * [Set up Host-Guest-Communication](http://serverfault.com/questions/225155/virtualbox-how-to-set-up-networking-so-both-host-and-guest-can-access-internet)
 * [appserver.io](http://appserver.io/) - A full-stack webserver for PHP completely written in PHP
 * [Metalsmith](http://www.metalsmith.io/) - A static site generator / server on nodejs
+
+## Libraries
+
+* nodejs
+  * [Polyclay to enforce model schema defintion](https://github.com/ceejbot/polyclay)
